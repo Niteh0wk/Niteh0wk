@@ -34,6 +34,7 @@ Welcome to my **Personal Projects Showcase**! I’m a 22-year-old developer from
 | Project  | Description                                                                                                                                                         | Key Tech                    |
 |----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
 | **Queerly** | A dating app built for the entire LGBTQ+ community, with customizable pronouns, gender options, and orientations beyond hetero.                                     | Kotlin · Android Studio · Jetpack Compose |
+| **AlomREPSystem** | A PyQt6 desktop app that uses simple file‐based JSON storage to track multi‐category repair records—with numbered entries, image attachments, dark mode, and dynamic status fields. | Python · PyQt6 |
 
 > More projects coming soon—stay tuned!
 
