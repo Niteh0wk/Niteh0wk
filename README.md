@@ -11,10 +11,7 @@ Welcome to my **Personal Projects Showcase**! I’m a 22-year-old developer from
 1. [About Me](#about-me)  
 2. [Projects](#projects)  
 3. [Tech Stack](#tech-stack)  
-4. [How to Use](#how-to-use)  
-5. [Contributing](#contributing)  
-6. [License](#license)  
-7. [Contact](#contact)
+4. [Contact](#contact)
 
 ---
 
@@ -51,12 +48,3 @@ Welcome to my **Personal Projects Showcase**! I’m a 22-year-old developer from
   <img alt="SQL" src="https://img.shields.io/badge/SQL-standard-blue?logo=postgresql" />
   <img alt="Oracle SQL" src="https://img.shields.io/badge/OracleSQL-12c-red?logo=oracle" />
 </p>
-
----
-
-## 📥 How to Use
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/your-username/portfolio-showcase.git
-   cd portfolio-showcase
