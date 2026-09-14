@@ -2,7 +2,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/your-username)
 
-Welcome to my **Personal Projects Showcase**! I’m a 22-year-old developer from Austria who loves building all kinds of applications—big or small. I hold a Junior Developer certificate from CodersBay Linz, and I’m actively looking to grow as a Full-Stack Engineer. Feel free to explore my work and reach out if you’d like to collaborate.
+Welcome to my **Personal Projects Showcase**! I’m a 23-year-old developer from Austria who loves building all kinds of applications, big or small. I hold a Junior Developer certificate from CodersBay Linz, and I’m actively looking to grow as a Full-Stack Engineer. Feel free to explore my work and reach out if you’d like to collaborate.
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my **Personal Projects Showcase**! I’m a 22-year-old developer from
 ## 🙋‍♂️ About Me
 
 - **Name:** Philipp Gerstl  
-- **Age:** 22  
+- **Age:** 23  
 - **Location:** Austria  
 - **Certificate:** Junior Developer, CodersBay Linz  
 - **Passion:** Programming everything from simple scripts to full mobile apps  
